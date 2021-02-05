@@ -64,10 +64,6 @@ See how to use plugins in plugin documentation.
 
   - [dogebuild-c](https://github.com/dogebuild/dogebuild-c) - a C/C++ build plugin
 
-#### Go lang
-
-  - [dogebuild-go](https://github.com/dogebuild/dogebuild-go) - a Go lang build plugin
-
 #### Free Pascal
 
   - [dogebuild-fpc](https://github.com/dogebuild/dogebuild-fpc) - a Free Pascal build plugin
