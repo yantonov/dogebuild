@@ -64,10 +64,6 @@ See how to use plugins in plugin documentation.
 
   - [dogebuild-c](https://github.com/dogebuild/dogebuild-c) - a C/C++ build plugin
 
-#### Free Pascal
-
-  - [dogebuild-fpc](https://github.com/dogebuild/dogebuild-fpc) - a Free Pascal build plugin
-
 ### Other plugins:
 
 #### Protobuf
@@ -78,8 +74,3 @@ See how to use plugins in plugin documentation.
 #### Tex plugin
 
   - [dogebuild-tex](https://github.com/dogebuild/dogebuild-tex) - a Tex plugin
-
-
-#### Hello world plugin
-
-  - [dogebuild-hello](https://github.com/dogebuild/dogebuild-hello) - Hello world plugin
