@@ -62,15 +62,14 @@ See how to use plugins in plugin documentation.
 
 #### C/C++
 
-  - [dogebuild-c](https://github.com/dogebuild/dogebuild-c) - a C/C++ build plugin
+- [dogebuild-c](https://github.com/dogebuild/dogebuild-c) - a C/C++ build plugin
 
-### Other plugins:
+### Other plugins
 
 #### Protobuf
 
-  - [dogebuild-protobuf](https://github.com/dogebuild/dogebuild-protobuf) - a protobuf plugin
-
+- [dogebuild-protobuf](https://github.com/dogebuild/dogebuild-protobuf) - a protobuf plugin
 
 #### Tex plugin
 
-  - [dogebuild-tex](https://github.com/dogebuild/dogebuild-tex) - a Tex plugin
+- [dogebuild-tex](https://github.com/dogebuild/dogebuild-tex) - a Tex plugin
