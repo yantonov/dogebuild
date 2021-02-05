@@ -68,8 +68,8 @@ See how to use plugins in plugin documentation.
 
 #### Protobuf
 
-- [dogebuild-protobuf](https://github.com/dogebuild/dogebuild-protobuf) - a protobuf plugin
+- [dogebuild-protobuf](https://github.com/dogebuild/dogebuild-protobuf) a protobuf plugin
 
 #### Tex plugin
 
-- [dogebuild-tex](https://github.com/dogebuild/dogebuild-tex) - a Tex plugin
+- [dogebuild-tex](https://github.com/dogebuild/dogebuild-tex) a Tex plugin
